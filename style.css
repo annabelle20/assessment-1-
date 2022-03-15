@@ -1,2 +1,10 @@
-
-p { width: 50%; background: #FFF; margin: 315px; border: 315px solid #808080; padding: 15px; font-family: Arial; font-size: 2em; color: #6FFFE9; }
+p {
+width: 50%;
+background: #FFF;
+margin: 30px;
+border: 30px solid #808080;
+padding: 30px;
+font-family: Arial;
+font-size: 2em;
+color: #6FFFE9;
+}
