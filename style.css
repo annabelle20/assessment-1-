@@ -1,4 +1,12 @@
+#contactDetails {
+	float: right;
+}
 
+#contactDetails ul {
+	list-style-type: none;
+	font-size: 0.9em;
+	margin-top: 2px;
+}
 
 
 
