@@ -1,13 +1,3 @@
-#contactDetails {
-	float: right;
-}
-
-#contactDetails ul {
-	list-style-type: none;
-	font-size: 0.9em;
-	margin-top: 2px;
-}
-
 
 
 p {
@@ -22,3 +12,13 @@ color: #000;
 }
 
 html, body {background: #0B132B; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #50AAA9;}
+
+#personalInformation {
+	float: right;
+}
+
+#contactDetails ul {
+	list-style-type: none;
+	font-size: 0.9em;
+	margin-top: 2px;
+}
