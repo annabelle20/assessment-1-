@@ -1,3 +1,11 @@
+html, body {
+  background: #ODO221;
+  font-family: arial, sans=serif;
+  font-size: 16px;
+  color: #26408B
+}
+
+
 p {
 width: 25%;
 background: #FFF;
@@ -7,4 +15,10 @@ padding: 15px;
 font-family: Arial;
 font-size: 1em;
 color: #000;
+}
+
+h1 {
+  font-size: 20px;
+  color: black;
+  padding: 20px 0 0;
 }
