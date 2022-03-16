@@ -11,11 +11,9 @@ font-size: 1em;
 color: #000;
 }
 
-html, body {background: #26408B; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 24px; color: #9381FF;}
+html, body {background: #FFC0CB; font-family: sans-serif; font-size: 18px; color: #9381FF;}
 
-#contactDetails {
-	float: right;
-}
+
 
 #contactDetails ul {
 	list-style-type: none;
