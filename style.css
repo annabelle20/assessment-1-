@@ -1,10 +1,5 @@
 
-html, body {
-  background: #0B132B;
-  font-family: sans-serif;
-  font-size: 5px;
-  color: #50AAA9
-}
+
 
 
 p {
@@ -18,3 +13,4 @@ font-size: .5em;
 color: #000;
 }
 
+html, body {background: #0B132B; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #50AAA9;}
